@@ -44,6 +44,8 @@ body{
 	left:5vw;
 	top:6vw;
 	line-height: 130%;
+	background: hsl(200,50%,85%);
+	
 }
 
 .popup{
