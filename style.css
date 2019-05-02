@@ -39,7 +39,7 @@ body{
 	padding:13px;
 	border: 2px solid hsl(200, 80%, 20%);
 	border-radius:10px;
-	width:25vw;
+	width:23vw;
 	position:absolute;
 	left:5vw;
 	top:6vw;
@@ -54,7 +54,7 @@ body{
 	position:absolute;
 	top:76%;
 	left:3em;
-	width:23em;
+	width:20em;
 }
 
 .sources:hover>.popup{
