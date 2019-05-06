@@ -33,4 +33,10 @@ $(document).ready(function(){
 	$(".nondual").on("mouseleave", function(){
 		$(".nondualPopup")[0].style.display="none";
 	})
+	$(".lives").on("mouseenter", function(){
+		$(".lifePopup")[0].style.display="block";
+	})
+	$(".lives").on("mouseleave", function(){
+		$(".lifePopup")[0].style.display="none";
+	})
 })

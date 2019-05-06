@@ -33,7 +33,7 @@ body{
 	transform: scale(2);
 }
 
-.realminfo, .karmaPopup, .nonduality, .nondualPopup{
+.realminfo, .karmaPopup, .nonduality, .nondualPopup, .lifePopup{
 	display:none;
 	font:serif;
 	padding:13px;
@@ -79,7 +79,7 @@ body{
 	display: block;
 }
 
-.nondual{
+.nondual, .lives{
 	border-bottom: 1px dashed black;
 	cursor:pointer;
 }
